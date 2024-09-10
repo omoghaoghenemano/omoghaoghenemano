@@ -70,10 +70,11 @@
 </p>
 
 <!-- Stylish Separator with Gradient -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/omoghaoghenemano/omoghaoghenemano/main/assets/divider.svg" alt="Divider" />
-</div>
 
+## Trophies 🏆
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=omoghaoghenemano&theme=monokai&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
 <!-- Footer with Contact Info -->
 <p align="center">
   <i>Feel free to connect with me!</i><br>
