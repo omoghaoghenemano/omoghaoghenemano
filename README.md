@@ -60,7 +60,12 @@
 
 ---
 
-### 🐍 **Snake Animation**
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omoghaoghenemano&layout=compact&theme=midnight-purple" alt="Top Languages" />
+</div>
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omoghaoghenemano/omoghaoghenemano/output/github-contribution-grid-snake-dark.svg">
