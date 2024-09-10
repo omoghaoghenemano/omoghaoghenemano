@@ -1,9 +1,4 @@
 <p align="left">
-  <a href="https://github.com/omoghaoghenemano/omoghaoghenemano">
-    <img src="https://komarev.com/ghpvc/?username=omoghaoghenemano" alt="page views" />
-  </a>
-  
-  
   <a href="https://www.linkedin.com/in/oghenemano-o-179aba206/" target="_blank">
     <img src=https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white />
   </a>
