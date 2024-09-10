@@ -30,16 +30,25 @@
 
 <!-- Icons with Tooltips for Technologies -->
 <p align="center">
-  <a href="https://angular.io/" target="_blank" title="Angular"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://kubernetes.io/" target="_blank" title="Kubernetes"><img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
-  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" /></a>
-  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=green" alt="Node.js" /></a>
-  <a href="https://spring.io/" target="_blank" title="Spring"><img src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=green" alt="Spring" /></a>
-  <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /></a>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Machine_Learning-DD0031?style=for-the-badge&logo=machinelearning&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=green" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=F7DF1E" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=green" alt="Spring" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
+  <img src="https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=blue" alt="R" />
+
 </p>
 
 ---
