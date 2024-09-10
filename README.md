@@ -9,6 +9,7 @@
 
 - ⚡ +4 years of professional experience as a full stack developer
 - 👯 You can always ask for help for open source and free software projects.
+- 📞 You can contact me via @manoomogha3@gmail.com
 <img src="https://github-readme-stats.vercel.app/api?username=omoghaoghenemano&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <div align="center"><br>
   
