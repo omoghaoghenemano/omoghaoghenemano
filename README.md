@@ -74,6 +74,11 @@
   </picture>
 </p>
 
+---
+<div align="center">
+<img width="100%" height = "400px" src="https://archive.factordaily.com/wp-content/uploads/2018/01/Frrole_Lead.gif" alt="cover" />
+</div>
+
 <!-- Stylish Separator with Gradient -->
 
 ## Trophies 🏆
