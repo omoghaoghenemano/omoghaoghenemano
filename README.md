@@ -1,6 +1,6 @@
 <!-- Profile Header with Gradient and Icons -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7DF1E&center=true&width=800&lines=Welcome+to+Oghenemano's+GitHub+Profile!;Full+Stack+Developer+%7C+Machine+Learning+Enthusiast;4%2B+years+experience+in+Web+Development;Always+learning+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7DF1E&center=true&width=800&lines=Welcome+to+Oghenemano's+GitHub+Profile!;Full+Stack+Developer+%7C+Machine+Learning+Enthusiast;Always+learning+and+improving" alt="Typing SVG" />
 </p>
 
 <!-- LinkedIn and Profile View Badges -->
@@ -12,7 +12,6 @@
 </p>
 
 <!-- About Me -->
-- ⚡ **4+ years** of professional experience as a Full Stack Developer.
 - 👯 I'm always open to contributing to **Open Source** and **Free Software** projects.
 - 📞 Contact me via email: **manoomogha3@gmail.com**
 
