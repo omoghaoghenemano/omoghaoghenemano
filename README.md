@@ -75,9 +75,10 @@
 </p>
 
 ---
-<div align="center">
-<img width="100%" height = "400px" src="https://archive.factordaily.com/wp-content/uploads/2018/01/Frrole_Lead.gif" alt="cover" />
+<div style="text-align: center;">
+  <img src="https://archive.factordaily.com/wp-content/uploads/2018/01/Frrole_Lead.gif" alt="cover" style="width: 100%; height:300px, object-fit: contain;" />
 </div>
+
 
 <!-- Stylish Separator with Gradient -->
 
