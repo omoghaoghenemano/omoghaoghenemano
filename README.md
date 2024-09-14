@@ -12,7 +12,7 @@
 </p>
 
 <!-- About Me -->
-- 👯 I'm always open to contributing to **Open Source** and **Free Software** projects.
+-    I'm always open to contributing to **Open Source** and **Free Software** projects.
 - 📞 Contact me via email: **manoomogha3@gmail.com**
 
 ---
