@@ -1,3 +1,4 @@
+<h3> Oghenemano Omogha</h3>
 <!-- Profile Header with Gradient and Icons -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7DF1E&center=true&width=800&lines=Welcome+to+Oghenemano's+GitHub+Profile!;Full+Stack+Developer+%7C+Machine+Learning+Enthusiast;Always+learning+and+improving" alt="Typing SVG" />
