@@ -12,8 +12,10 @@
 </p>
 
 <!-- About Me -->
--    I'm always open to contributing to **Open Source** and **Free Software** projects.
-- 📞 Contact me via email: **manoomogha3@gmail.com**
+-   Master's student in Artificial Intelligence Engineering at the University of Passau. Currently working as a Software Engineer in GenAI at Siemens.
+-   Passionate about AI, GENAI, Machine learning, Agentic AI, immersive data visualization(VR/AR).
+-   Always exploring how machine can think and how we can see data in ways that make us think differently too.
+  
 
 ---
 
