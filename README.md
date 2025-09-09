@@ -12,8 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=omoghaoghenemano&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- About Me -->
--   Master's student in Artificial Intelligence Engineering at the University of Passau. Currently working as a Software Engineer in GenAI at Siemens.
+<!-- About Me --> 
 -   Passionate about AI, GENAI, Machine learning, Agentic AI, immersive data visualization(VR/AR).
 -   Always exploring how machine can think and how we can see data in ways that make us think differently too.
   
