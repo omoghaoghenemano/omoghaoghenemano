@@ -1,10 +1,9 @@
-<h1 align="center"> Oghenemano Omogha</h1>
-<!-- Profile Header with Gradient and Icons -->
+<h1 align="center">Hi, I'm Oghenemano Omogha 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7DF1E&center=true&width=800&lines=Welcome+to+Oghenemano's+GitHub+Profile!;Full+Stack+Developer+%7C+Machine+Learning+Enthusiast;Always+learning+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7DF1E&center=true&width=800&lines=Welcome+to+Oghenemano's+GitHub+Profile!;Full+Stack+Developer;AI+Enthusiast;Immersive+Data+Visualization+Explorer;Open+Source+Contributor" />
 </p>
 
-<!-- LinkedIn and Profile View Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/oghenemano-o-179aba206/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -12,26 +11,30 @@
   <img src="https://komarev.com/ghpvc/?username=omoghaoghenemano&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- About Me --> 
--   Passionate about AI, GENAI, Machine learning, Agentic AI, immersive data visualization(VR/AR).
--   Always exploring how machine can think and how we can see data in ways that make us think differently too.
-  
+---
+
+## 🚀 About Me
+
+- 🤖 Passionate about **AI, GENAI, Machine Learning, Agentic AI, and immersive data visualization (VR/AR)**  
+- 💡 Always exploring how machines can think—and how we can see data in ways that make us think differently too  
+- 🌱 Lifelong learner, open-source enthusiast, and creative technologist  
+- 🛠️ Full Stack Developer with hands-on experience in cloud, backend, and frontend stacks
 
 ---
 
-<!-- GitHub Stats with Custom Design -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omoghaoghenemano&theme=radical&fire=ff6b6b&currStreakLabel=ffffff&ring=bb2acf&background=151515&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omoghaoghenemano&show_icons=true&title_color=ffffff&icon_color=ffbb2c&text_color=ffffff&bg_color=0d1117" />
-</div>
+## 🌟 Featured Projects
+
+- 🔥 **[Machine-Learning-Algorithms](https://github.com/omoghaoghenemano/Machine-Learning-Algorithms):** A comprehensive collection of classic and modern ML algorithms and experiments  
+- 🖼️ **[ARMuseumGuide](https://github.com/omoghaoghenemano/ARMuseumGuide):** Augmented Reality app that guides users through museum exhibits  
+- 🏛️ **[ARMuseum](https://github.com/omoghaoghenemano/ARMuseum):** Making museums interactive with AR  
+- 🎓 **[ss25-ai-lab-final-project-omoghaoghenemano](https://github.com/se2p/ss25-ai-lab-final-project-omoghaoghenemano):** Cutting-edge AI lab project, 2025  
 
 ---
 
-### 💻 **Technologies I Use**
+### 💻 Technologies I Use
 
-<!-- Icons with Tooltips for Technologies -->
 <p align="center">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -49,17 +52,20 @@
   <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B" alt="C++" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
   <img src="https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=blue" alt="R" />
-
 </p>
 
 ---
 
-### 📊 **GitHub Activity**
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omoghaoghenemano&theme=radical&fire=ff6b6b&currStreakLabel=ffffff&ring=bb2acf&background=151515&sideNums=ffffff&sideLabels=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omoghaoghenemano&show_icons=true&title_color=ffffff&icon_color=ffbb2c&text_color=ffffff&bg_color=0d1117" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omoghaoghenemano&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" />
 </div>
-
----
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omoghaoghenemano&layout=compact&theme=midnight-purple" alt="Top Languages" />
@@ -76,18 +82,21 @@
 </p>
 
 ---
+
 <div style="text-align: center;">
   <img src="https://archive.factordaily.com/wp-content/uploads/2018/01/Frrole_Lead.gif" alt="cover" style="width: 100%; height:300px, object-fit: contain;" />
 </div>
 
+---
 
-<!-- Stylish Separator with Gradient -->
+## 🏆 Trophies
 
-## Trophies 🏆
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omoghaoghenemano&theme=monokai&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omoghaoghenemano&theme=monokai&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
-<!-- Footer with Contact Info -->
+
+---
+
 <p align="center">
   <i>Feel free to connect with me!</i><br>
   <a href="mailto:manoomogha3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
